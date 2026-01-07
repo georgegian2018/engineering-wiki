@@ -6,7 +6,7 @@ Each new or updated API endpoint must come with documentation, unless it is inte
 
 # Methods and parameters description
 
-Every method must be described using the [Grape DSL](https://github.com/ruby-grape/grape#describing-methods):
+Every method must be described using the :
 
 - `desc` for the method summary.
 - `params` for the method parameters.
