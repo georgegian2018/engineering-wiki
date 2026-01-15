@@ -1,4 +1,0 @@
-- [Welcome!](<Welcome.md?n>)
-- [⚛️ Infrastructure](<⚛️ Infrastructure.md?n>)
-- [📕 Guides](<📕 Guides.md?n>)
-- [🔧 How we work](<🔧 How we work.md?n>)
